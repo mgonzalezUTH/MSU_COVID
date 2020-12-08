@@ -1,2 +1,2 @@
-# msu_covid
+# MSU COVID
 Dataset for MSU Covid Project
